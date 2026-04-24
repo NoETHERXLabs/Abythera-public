@@ -102,7 +102,6 @@ tapeout/
 ## ⚙️ Technology Stack
 
 - **Process Node:** SKY130 (130nm)
-- **Flow:** OpenLane / OpenROAD
 - **PDK:** sky130A
 - **Verification:** Netgen (LVS), Magic (DRC), KLayout (GDS)
 
