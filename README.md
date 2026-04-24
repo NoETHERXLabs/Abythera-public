@@ -16,7 +16,7 @@ RISCV_SOC_02_RTL2GDS_PINORDER
 # 🚀 NoETHERXLabs RISC-V SoC — Tapeout (RISCV_07)
 
 ## 📌 Project Overview
-This project implements a **RISC-V SoC** using the **OpenLane (Sky130)** ASIC flow, developed under **NoETHERXLabs**.
+This project implements a **RISC-V SoC** using the  **(Sky130)** ASIC flow, developed under **NoETHERXLabs**.
 
 The design has successfully completed the full RTL-to-GDS flow and has reached **tapeout stage**.
 
@@ -289,10 +289,13 @@ repo/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Company 
 
 **NoETHERXLabs**
 
+## Engineer 
+
+**Jairus Samraj Solomon**
 ---
 
 ## ⚡ Final Status
