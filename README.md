@@ -2,7 +2,7 @@
 RISCV_SOC_02_RTL2GDS_PINORDER_MACRO
 
 # Abythera
-Project Started  :  April 1st  2026 
+Project Started  :  February 1st  2026 
 Project Completed:  April 18th 2026 
 
 https://github.com/NoETHERXLabs/Abythera
